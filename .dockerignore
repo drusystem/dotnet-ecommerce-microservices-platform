@@ -1,0 +1,42 @@
+# Build artifacts
+**/bin/
+**/obj/
+**/out/
+**/logs/
+
+# IDE
+**/.vs/
+**/.vscode/
+**/.idea/
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Docker
+**/Dockerfile
+**/docker-compose.yml
+**/.dockerignore
+
+# Documentation
+**/*.md
+**/README.md
+
+# Tests
+**/tests/
+**/*Tests/
+**/*.Tests/
+
+# Node modules (si existieran)
+**/node_modules/
+
+# Otros archivos innecesarios
+**/.DS_Store
+**/.env
+**/.env.*
+**/appsettings.Development.json
+**/Properties/launchSettings.json
+
+# Archivos de migraciones compilados (opcional)
+**/Migrations/
