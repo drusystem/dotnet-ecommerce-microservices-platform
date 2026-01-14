@@ -8,7 +8,7 @@
 - **Identity Service**: Autenticación y autorización (Puerto 5004)
 
 ## Stack Tecnológico
-- .NET 8
+- .NET 10
 - Docker & Docker Compose
 - YARP (API Gateway)
 - PostgreSQL / SQL Server
