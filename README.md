@@ -17,9 +17,9 @@
 
 ## Estado del Proyecto
 - [x] Etapa 1: Estructura base y API Gateway
-- [ ] Etapa 2: Catalog Service
-- [ ] Etapa 3: Basket Service
-- [ ] Etapa 4: Ordering Service
+- [x] Etapa 2: Catalog Service
+- [x] Etapa 3: Basket Service
+- [x] Etapa 4: Ordering Service
 - [ ] Etapa 5: Identity Service
 - [ ] Etapa 6: Event-Driven Communication
 - [ ] Etapa 7: Docker Compose & Deployment
